@@ -1,0 +1,35 @@
+.split-screen-container {
+  display: flex;
+  height: 80vh;
+}
+
+.left-pane {
+  flex: 1;
+  display: flex;
+  padding: 5px;
+  box-sizing: border-box;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.right-pane {
+  flex: 1;
+  padding: 5px;
+  box-sizing: border-box;
+
+}
+
+.left-pane {
+  background-color: #ffffff;
+}
+
+.right-pane {
+  background-color: #ffffff;
+}
+
+@media (max-width: 768px) {
+  .split-screen-container {
+    flex-direction: column;
+  }
+}
