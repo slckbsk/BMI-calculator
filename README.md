@@ -11,11 +11,6 @@
 
 ## ---------------- 
 
-### Getting Started with Hasura
- [Hasura Cloud](https://hasura.io/graphql/).
-
-## ---------------- 
-
 ### Deploy on Vercel
 The easiest way to deploy your React App is to use the [Vercel Platform](https://vercel.com/) from the creators of React.
 Check  [deployment documentation](https://create-react-app.dev/docs/deployment) for more details.
